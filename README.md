@@ -21,7 +21,7 @@ Choose **one** system that everyone in the group knows well enough to argue abou
 Write the system name at the top of your board (or file if you're on your computer). List 6 to 10 kinds of people who touch it. Don't design roles yet, just name the people.
 
 
-## Part 2. Design the roles (10 minutes)
+## Part 2. Design the roles
 
 Turn your list of people into **roles**. Rules for good roles:
 
@@ -35,7 +35,7 @@ Turn your list of people into **roles**. Rules for good roles:
 
 While you design roles, also list the **permissions** the system needs. Permissions are verbs on things: view a chart, edit a grade, approve an expense, export a report, delete an account. Write each permission on the board as a short phrase.
 
-## Part 3. Build the matrix (15 minutes)
+## Part 3. Build the matrix
 
 Draw the grid: roles across the top, permissions down the side. Mark each cell **allow** or leave it **deny** (blank). 
 
